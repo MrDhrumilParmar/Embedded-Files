@@ -1,0 +1,14 @@
+main.c:104:6:HAL_UART_RxCpltCallback	1
+main.c:110:6:updateVal	2
+main.c:121:10:averageVal	2
+main.c:129:6:HAL_ADC_ConvCpltCallback	2
+main.c:149:5:main	12
+main.c:279:6:SystemClock_Config	3
+main.c:323:13:MX_ADC1_Init	5
+main.c:395:13:MX_TIM1_Init	4
+main.c:439:13:MX_TIM2_Init	4
+main.c:481:13:MX_USART2_UART_Init	5
+main.c:526:13:MX_USART3_UART_Init	2
+main.c:558:13:MX_DMA_Init	1
+main.c:581:13:MX_GPIO_Init	1
+main.c:627:6:Error_Handler	1

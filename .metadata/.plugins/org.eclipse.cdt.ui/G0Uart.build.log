@@ -1,0 +1,10 @@
+18:09:35 **** Incremental Build of configuration Debug for project G0Uart ****
+make -j12 all 
+arm-none-eabi-size   G0Uart.elf 
+   text	   data	    bss	    dec	    hex	filename
+  25104	     24	   3568	  28696	   7018	G0Uart.elf
+Finished building: default.size.stdout
+ 
+
+18:09:35 Build Finished. 0 errors, 0 warnings. (took 315ms)
+

@@ -1,0 +1,9 @@
+../Core/Src/w5100/w5100_spi.c:7:9:SPIReadWrite	16	static
+../Core/Src/w5100/w5100_spi.c:19:6:wizchip_select	8	static
+../Core/Src/w5100/w5100_spi.c:24:6:wizchip_deselect	8	static
+../Core/Src/w5100/w5100_spi.c:29:9:wizchip_read	16	static
+../Core/Src/w5100/w5100_spi.c:36:6:wizchip_write	16	static
+../Core/Src/w5100/w5100_spi.c:41:6:wizchip_readburst	24	static
+../Core/Src/w5100/w5100_spi.c:50:6:wizchip_writeburst	24	static
+../Core/Src/w5100/w5100_spi.c:59:6:w5100IOInit	32	static
+../Core/Src/w5100/w5100_spi.c:73:6:w5100Init	24	static

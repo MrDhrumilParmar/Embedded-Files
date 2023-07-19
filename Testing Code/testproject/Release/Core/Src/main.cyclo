@@ -1,0 +1,4 @@
+main.c:69:5:_write	5
+main.c:134:6:SystemClock_Config	3
+main.c:87:5:main	4
+main.c:376:6:Error_Handler	1

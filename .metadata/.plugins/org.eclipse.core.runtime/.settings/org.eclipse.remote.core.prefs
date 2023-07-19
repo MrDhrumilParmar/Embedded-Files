@@ -1,0 +1,11 @@
+connections/org.eclipse.remote.serial.core.connectionType/nemo/serial.baudRate=11
+connections/org.eclipse.remote.serial.core.connectionType/nemo/serial.byteSize=3
+connections/org.eclipse.remote.serial.core.connectionType/nemo/serial.parity=0
+connections/org.eclipse.remote.serial.core.connectionType/nemo/serial.portName=COM12
+connections/org.eclipse.remote.serial.core.connectionType/nemo/serial.stopBits=0
+connections/org.eclipse.remote.serial.core.connectionType/uart/serial.baudRate=11
+connections/org.eclipse.remote.serial.core.connectionType/uart/serial.byteSize=3
+connections/org.eclipse.remote.serial.core.connectionType/uart/serial.parity=0
+connections/org.eclipse.remote.serial.core.connectionType/uart/serial.portName=COM12
+connections/org.eclipse.remote.serial.core.connectionType/uart/serial.stopBits=0
+eclipse.preferences.version=1

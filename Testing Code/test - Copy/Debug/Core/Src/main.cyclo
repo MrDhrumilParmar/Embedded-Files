@@ -1,0 +1,9 @@
+main.c:80:5:main	1
+main.c:143:6:SystemClock_Config	3
+main.c:189:13:MX_I2C1_Init	2
+main.c:223:13:MX_I2S3_Init	2
+main.c:257:13:MX_SPI1_Init	2
+main.c:295:13:MX_TIM1_Init	9
+main.c:380:13:MX_TIM2_Init	7
+main.c:446:13:MX_GPIO_Init	1
+main.c:545:6:Error_Handler	1

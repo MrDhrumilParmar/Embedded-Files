@@ -1,0 +1,9 @@
+15:53:52 **** Build of configuration Default for project EthernetGithub ****
+make all 
+Cannot run program "make": Launching failed
+
+Error: Program "make" not found in PATH
+PATH=[C:/ST/STM32CubeIDE_1.12.1/STM32CubeIDE//plugins/com.st.stm32cube.ide.jre.win64_2.4.101.202303251752/jre/bin/server;C:/ST/STM32CubeIDE_1.12.1/STM32CubeIDE//plugins/com.st.stm32cube.ide.jre.win64_2.4.101.202303251752/jre/bin;C:\Python311\Scripts\;C:\Python311\;C:\Users\Dhrumil & Company\AppData\Roaming\npm\;C:\Users\Dhrumil & Company\Desktop\reactApp\node_modules\.bin\;Company\Desktop\reactApp\node_modules\.bin\;C:\Python310\Scripts\;C:\Python310\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;C:\Users\MrDhrumil\vscode;C:\Program Files\dotnet\;C:\MinGW\bin;C:\msys64\mingw64\bin;C:\Program Files\nodejs;D:\Newsoftware\Git\cmd;C:\Program Files (x86)\STMicroelectronics\STM32 ST-LINK Utility\ST-LINK Utility;D:\Newsoftware\Flash Magic;D:\NewSoftware\;D:\Newsoftware\iverilog\bin;C:\Users\Dhrumil &Company\Desktop\reactApp\node_modules\.bin\;C:\Users\Dhrumil & Company\AppData\Roaming\npm\;C:\Users\Dhrumil & Company\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Dhrumil & Company\AppData\Roaming\npm;C:\msys64\mingw64\bin;C:\Users\MrDhrumil\AppData\Local\Microsoft\WindowsApps;C:\Users\MrDhrumil\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\MrDhrumil\AppData\Roaming\npm\yarn;C:\Users\MrDhrumil\AppData\Roaming\npm;C:\Users\MrDhrumil\Desktop\DIC\Embe Dic Intern\EthernetGithub]
+
+15:53:52 Build Failed. 1 errors, 0 warnings. (took 97ms)
+

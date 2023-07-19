@@ -1,0 +1,9 @@
+w5100_spi.c:7:9:SPIReadWrite	3
+w5100_spi.c:19:6:wizchip_select	1
+w5100_spi.c:24:6:wizchip_deselect	1
+w5100_spi.c:29:9:wizchip_read	1
+w5100_spi.c:36:6:wizchip_write	1
+w5100_spi.c:41:6:wizchip_readburst	2
+w5100_spi.c:50:6:wizchip_writeburst	2
+w5100_spi.c:59:6:w5100IOInit	1
+w5100_spi.c:73:6:w5100Init	3
